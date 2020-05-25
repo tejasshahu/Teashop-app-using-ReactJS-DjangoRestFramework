@@ -1,4 +1,4 @@
-#Sadguru's Amrit-Tulya - Tea Shop
+## Sadguru's Amrit-Tulya - Tea Shop
 
 This application is built using Frontend in ReactJS and Backend API using Django Rest Framework.
 
